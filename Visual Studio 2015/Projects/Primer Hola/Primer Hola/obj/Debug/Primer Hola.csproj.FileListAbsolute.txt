@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\bin\Debug\Primer Hola.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\bin\Debug\Primer Hola.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\bin\Debug\Primer Hola.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\obj\Debug\Primer Hola.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\obj\Debug\Primer_Hola.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\obj\Debug\Primer_Hola.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\obj\Debug\Primer Hola.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\obj\Debug\Primer Hola.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Primer Hola\Primer Hola\obj\Debug\Primer Hola.pdb

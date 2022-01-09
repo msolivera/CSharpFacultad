@@ -1,0 +1,12 @@
+C:\Users\usuario\Downloads\Parcial\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\usuario\Downloads\Parcial\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\usuario\Downloads\Parcial\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\usuario\Downloads\Parcial\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Parcial\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\usuario\Downloads\Parcial\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\usuario\Downloads\Parcial MicaelaOlivera\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\usuario\Downloads\Parcial MicaelaOlivera\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\usuario\Downloads\Parcial MicaelaOlivera\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\usuario\Downloads\Parcial MicaelaOlivera\Parcial MicaelaOlivera\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\usuario\Downloads\Parcial MicaelaOlivera\Parcial MicaelaOlivera\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\usuario\Downloads\Parcial MicaelaOlivera\Parcial MicaelaOlivera\Ejercicio4\obj\Debug\Ejercicio4.pdb

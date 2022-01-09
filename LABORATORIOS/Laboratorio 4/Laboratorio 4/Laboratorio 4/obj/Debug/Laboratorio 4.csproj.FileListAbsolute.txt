@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\Programación 2\Proyectos tfs\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.exe.config
+C:\Users\usuario\Desktop\Programación 2\Proyectos tfs\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Programación 2\Proyectos tfs\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.exe
+C:\Users\usuario\Desktop\Programación 2\Proyectos tfs\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.pdb
+C:\Users\usuario\Desktop\Programación 2\Proyectos tfs\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.exe
+C:\Users\usuario\Desktop\Programación 2\Proyectos tfs\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.pdb
+C:\Users\usuario\Downloads\Lab 4\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.exe.config
+C:\Users\usuario\Downloads\Lab 4\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.exe
+C:\Users\usuario\Downloads\Lab 4\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.pdb
+C:\Users\usuario\Downloads\Lab 4\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.exe
+C:\Users\usuario\Downloads\Lab 4\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.pdb
+C:\Users\usuario\Downloads\Lab 4\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.csprojResolveAssemblyReference.cache

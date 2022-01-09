@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio 1 Vehiculo\Ejercicio 1 Vehiculo\bin\Debug\Ejercicio 1 Vehiculo.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio 1 Vehiculo\Ejercicio 1 Vehiculo\bin\Debug\Ejercicio 1 Vehiculo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio 1 Vehiculo\Ejercicio 1 Vehiculo\bin\Debug\Ejercicio 1 Vehiculo.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio 1 Vehiculo\Ejercicio 1 Vehiculo\obj\Debug\Ejercicio 1 Vehiculo.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio 1 Vehiculo\Ejercicio 1 Vehiculo\obj\Debug\Ejercicio 1 Vehiculo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Ejercicio 1 Vehiculo\Ejercicio 1 Vehiculo\obj\Debug\Ejercicio 1 Vehiculo.pdb

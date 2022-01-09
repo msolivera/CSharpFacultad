@@ -1,0 +1,5 @@
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_3\bin\Debug\Ejercicio_3.exe.config
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_3\bin\Debug\Ejercicio_3.exe
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_3\bin\Debug\Ejercicio_3.pdb
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_3\obj\Debug\Ejercicio_3.exe
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_3\obj\Debug\Ejercicio_3.pdb

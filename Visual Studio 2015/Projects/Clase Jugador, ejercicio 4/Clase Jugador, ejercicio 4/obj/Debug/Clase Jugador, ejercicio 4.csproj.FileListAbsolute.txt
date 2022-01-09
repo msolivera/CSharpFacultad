@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Clase Jugador, ejercicio 4\Clase Jugador, ejercicio 4\bin\Debug\Clase Jugador, ejercicio 4.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Clase Jugador, ejercicio 4\Clase Jugador, ejercicio 4\bin\Debug\Clase Jugador, ejercicio 4.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Clase Jugador, ejercicio 4\Clase Jugador, ejercicio 4\bin\Debug\Clase Jugador, ejercicio 4.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Clase Jugador, ejercicio 4\Clase Jugador, ejercicio 4\obj\Debug\Clase Jugador, ejercicio 4.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Clase Jugador, ejercicio 4\Clase Jugador, ejercicio 4\obj\Debug\Clase Jugador, ejercicio 4.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Clase Jugador, ejercicio 4\Clase Jugador, ejercicio 4\obj\Debug\Clase Jugador, ejercicio 4.pdb

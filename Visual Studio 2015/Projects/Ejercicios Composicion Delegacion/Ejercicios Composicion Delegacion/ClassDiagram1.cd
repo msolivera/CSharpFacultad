@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="0                  1">
+    <Position X="2.959" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="1                                      1">
+    <Position X="3.542" Y="2.177" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="Ejercicios_Composicion_Delegacion.Celular">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QFAAAAAAAAAQAAQQAAEEAQAAAAEAAACAAAQAAIBIAAg=</HashCode>
+      <FileName>Celular.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SistemaOperativo" />
+      <Property Name="SIM" />
+      <Property Name="Display" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ejercicios_Composicion_Delegacion.Display">
+    <Position X="0.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Display.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Celular" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ejercicios_Composicion_Delegacion.SIM">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAAAAAAAAAAAAAAoAAAAAAAAAAABAAAgAAAA=</HashCode>
+      <FileName>SIM.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Celular" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ejercicios_Composicion_Delegacion.SistemaOperativo">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAAAAAAACAAAAAAAAAAAAAAFAAAAAAAAgAAAA=</HashCode>
+      <FileName>SistemaOperativo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Celular" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

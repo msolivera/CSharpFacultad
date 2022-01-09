@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Segunda clase calculadora\Segunda clase calculadora\bin\Debug\Segunda clase calculadora.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Segunda clase calculadora\Segunda clase calculadora\bin\Debug\Segunda clase calculadora.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Segunda clase calculadora\Segunda clase calculadora\bin\Debug\Segunda clase calculadora.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Segunda clase calculadora\Segunda clase calculadora\obj\Debug\Segunda clase calculadora.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Segunda clase calculadora\Segunda clase calculadora\obj\Debug\Segunda clase calculadora.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Segunda clase calculadora\Segunda clase calculadora\obj\Debug\Segunda clase calculadora.pdb

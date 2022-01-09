@@ -1,0 +1,13 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Aldea.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources

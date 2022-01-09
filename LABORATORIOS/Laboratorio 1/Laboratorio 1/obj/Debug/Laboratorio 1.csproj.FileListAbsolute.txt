@@ -1,0 +1,40 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\usuario\Desktop\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\usuario\Desktop\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+C:\Users\usuario\Desktop\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Desktop\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\usuario\Desktop\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Downloads\Laboratorio 1 Ultima version\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\usuario\Downloads\Laboratorio 1 Ultima version\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\usuario\Downloads\Laboratorio 1 Ultima version\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+E:\Agustin\Desktop\L1 Modificado\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+E:\Agustin\Desktop\L1 Modificado\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+E:\Agustin\Desktop\L1 Modificado\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+E:\Agustin\Desktop\L1 Modificado\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\L1 Modificado\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.CoreCompileInputs.cache
+E:\Agustin\Desktop\L1 Modificado\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+E:\Agustin\Desktop\L1 Modificado\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Downloads\L1 Modificado (Por Santiago y Agustin )\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\usuario\Downloads\L1 Modificado (Por Santiago y Agustin )\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\usuario\Downloads\L1 Modificado (Por Santiago y Agustin )\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Downloads\L1 Modificado (Por Santiago y Agustin )\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+C:\Users\usuario\Downloads\L1 Modificado (Por Santiago y Agustin )\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Downloads\L1 Modificado (Por Santiago y Agustin )\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\obj\Debug\Laboratorio 1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\usuario\Desktop\Nueva carpeta\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+C:\Users\usuario\Desktop\Nueva carpeta\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Desktop\Programación 2\Lab 1 programacion 2\VERSION ULTRA FINAL\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\usuario\Desktop\Programación 2\Lab 1 programacion 2\VERSION ULTRA FINAL\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\usuario\Desktop\Programación 2\Lab 1 programacion 2\VERSION ULTRA FINAL\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Desktop\Programación 2\Lab 1 programacion 2\VERSION ULTRA FINAL\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+C:\Users\usuario\Desktop\Programación 2\Lab 1 programacion 2\VERSION ULTRA FINAL\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+C:\Users\usuario\Desktop\Programación 2\Lab 1 programacion 2\VERSION ULTRA FINAL\Laboratorio 1 VERSION FINAL DEFINITIVA\Laboratorio 1\obj\Debug\Laboratorio 1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Laboratorio 1 VERSION FINAL DEFINITIVA MEJORADA POR AGUSTIN xD\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\usuario\Downloads\Laboratorio 1 VERSION FINAL DEFINITIVA MEJORADA POR AGUSTIN xD\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\usuario\Downloads\Laboratorio 1 VERSION FINAL DEFINITIVA MEJORADA POR AGUSTIN xD\Laboratorio 1\obj\Debug\Laboratorio 1.pdb

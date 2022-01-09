@@ -1,0 +1,7 @@
+c:\users\pablo\documents\visual studio 2015\Projects\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_1\obj\Debug\Ejercicio_1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_1\obj\Debug\Ejercicio_1.pdb

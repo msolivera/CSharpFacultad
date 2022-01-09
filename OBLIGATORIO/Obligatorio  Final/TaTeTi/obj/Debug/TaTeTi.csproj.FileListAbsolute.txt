@@ -1,0 +1,33 @@
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\bin\Debug\TaTeTi.exe.config
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\obj\Debug\TaTeTi.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\bin\Debug\TaTeTi.exe.config
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\TaTeTi\obj\Debug\TaTeTi.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\TaTeTi.exe.config
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\TaTeTi.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\TaTeTi.pdb
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\BuscaMinas.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\Obligatorio.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\BuscaMinas.pdb
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\BuscaMinas.exe.config
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\Obligatorio.pdb
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\bin\Debug\Obligatorio.exe.config
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\obj\Debug\TaTeTi.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\obj\Debug\TaTeTi.csproj.CoreCompileInputs.cache
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\obj\Debug\TaTeTi.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\TaTeTi\obj\Debug\TaTeTi.pdb

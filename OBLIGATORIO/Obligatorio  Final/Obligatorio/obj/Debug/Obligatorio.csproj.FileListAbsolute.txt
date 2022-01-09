@@ -1,0 +1,67 @@
+C:\Users\usuario\Desktop\Programación 2\Proyectos tfs\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Form1.resources
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Menu.resources
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Downloads\Obligatorio\Obligatorio\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.Menu.resources
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Downloads\Obligatorio - meki\Obligatorio\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.Menu.resources
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Desktop\Obligatorio - meki\Obligatorio\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.Menu.resources
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\usuario\Desktop\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.Menu.resources
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\usuario\Downloads\Nueva carpeta\Obligatorio - Agustin - Santiago V2\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache

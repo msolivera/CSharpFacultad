@@ -1,0 +1,6 @@
+c:\users\fedem\onedrive\documents\visual studio 2017\Projects\PropDemor\PropDemor\bin\Debug\PropDemor.exe.config
+c:\users\fedem\onedrive\documents\visual studio 2017\Projects\PropDemor\PropDemor\bin\Debug\PropDemor.exe
+c:\users\fedem\onedrive\documents\visual studio 2017\Projects\PropDemor\PropDemor\bin\Debug\PropDemor.pdb
+c:\users\fedem\onedrive\documents\visual studio 2017\Projects\PropDemor\PropDemor\obj\Debug\PropDemor.csprojResolveAssemblyReference.cache
+c:\users\fedem\onedrive\documents\visual studio 2017\Projects\PropDemor\PropDemor\obj\Debug\PropDemor.exe
+c:\users\fedem\onedrive\documents\visual studio 2017\Projects\PropDemor\PropDemor\obj\Debug\PropDemor.pdb

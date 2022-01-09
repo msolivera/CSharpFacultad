@@ -1,0 +1,276 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Aldea.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Desktop\LAB 3\2\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Desktop\LAB 3\2\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Desktop\LAB 3\2\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 final\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\Laboratorio3 final\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\Laboratorio3 final\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\Laboratorio3 10-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\Laboratorio3 11-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\Laboratorio3 12-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB3\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Desktop\LAB13-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB13-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+E:\Agustin\Desktop\LAB15-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB15-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+E:\Agustin\Desktop\LAB16-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB16-10 v2\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+E:\Agustin\Desktop\LAB17-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB18-10\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB18-10v2\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Desktop\LAB18-10v3\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\usuario\Downloads\LAB19-10 SUPER CHANGE\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.csprojResolveAssemblyReference.cache
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.FormAldea.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.CrearAldea.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.Edificios.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.InformacionEdificios.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.InformacionTropas.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.Menu.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.Tropas.resources
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.Cache
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\Users\SANTIAGO.PINEIRO\Documents\Visual Studio 2017\Projects\LAB19-10 mica\Laboratorio3\obj\Debug\Laboratorio3.pdb

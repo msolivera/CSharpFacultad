@@ -1,0 +1,12 @@
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.AgregarCerveza.resources
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.Stock.resources
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.Ventas.resources
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\Users\usuario\Downloads\Parcial2_2_2017\Ejercicio_2\obj\Debug\Ejercicio_2.pdb

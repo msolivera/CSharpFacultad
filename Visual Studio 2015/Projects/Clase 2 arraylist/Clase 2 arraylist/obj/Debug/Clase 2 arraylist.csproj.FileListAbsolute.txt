@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Clase 2 arraylist\Clase 2 arraylist\bin\Debug\Clase 2 arraylist.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Clase 2 arraylist\Clase 2 arraylist\bin\Debug\Clase 2 arraylist.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Clase 2 arraylist\Clase 2 arraylist\bin\Debug\Clase 2 arraylist.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Clase 2 arraylist\Clase 2 arraylist\obj\Debug\Clase 2 arraylist.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Clase 2 arraylist\Clase 2 arraylist\obj\Debug\Clase 2 arraylist.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Clase 2 arraylist\Clase 2 arraylist\obj\Debug\Clase 2 arraylist.pdb

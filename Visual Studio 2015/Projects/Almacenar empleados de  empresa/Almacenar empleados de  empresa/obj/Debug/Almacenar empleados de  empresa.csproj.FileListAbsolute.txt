@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Almacenar empleados de  empresa\Almacenar empleados de  empresa\bin\Debug\Almacenar empleados de  empresa.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Almacenar empleados de  empresa\Almacenar empleados de  empresa\obj\Debug\Almacenar empleados de  empresa.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Almacenar empleados de  empresa\Almacenar empleados de  empresa\obj\Debug\Almacenar empleados de  empresa.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Almacenar empleados de  empresa\Almacenar empleados de  empresa\bin\Debug\Almacenar empleados de  empresa.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Almacenar empleados de  empresa\Almacenar empleados de  empresa\bin\Debug\Almacenar empleados de  empresa.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Almacenar empleados de  empresa\Almacenar empleados de  empresa\obj\Debug\Almacenar empleados de  empresa.csprojResolveAssemblyReference.cache

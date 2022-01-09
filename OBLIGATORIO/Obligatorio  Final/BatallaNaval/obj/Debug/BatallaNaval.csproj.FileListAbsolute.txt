@@ -1,0 +1,38 @@
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\bin\Debug\BatallaNaval.exe.config
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\obj\Debug\BatallaNaval.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\bin\Debug\BatallaNaval.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\bin\Debug\BatallaNaval.pdb
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\obj\Debug\BatallaNaval.exe
+C:\Users\usuario\Downloads\Obligatorio 1911 v3\BatallaNaval\obj\Debug\BatallaNaval.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\BatallaNaval.exe.config
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\obj\Debug\BatallaNaval.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\obj\Debug\BatallaNaval.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\BatallaNaval.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\BatallaNaval.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\BuscaMinas.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\Obligatorio.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\TaTeTi.exe
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\BuscaMinas.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\Obligatorio.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\bin\Debug\TaTeTi.pdb
+C:\Users\usuario\Downloads\Obligatorio 2211\BatallaNaval\obj\Debug\BatallaNaval.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\BatallaNaval.exe.config
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\BatallaNaval.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\BatallaNaval.pdb
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\BuscaMinas.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\Obligatorio.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\TaTeTi.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\BuscaMinas.pdb
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\BuscaMinas.exe.config
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\Obligatorio.pdb
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\Obligatorio.exe.config
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\TaTeTi.pdb
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\bin\Debug\TaTeTi.exe.config
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\obj\Debug\BatallaNaval.csprojResolveAssemblyReference.cache
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\obj\Debug\BatallaNaval.csproj.CoreCompileInputs.cache
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\obj\Debug\BatallaNaval.exe
+E:\Agustin\Desktop\Obligatorio Casi Final COMENTADO\BatallaNaval\obj\Debug\BatallaNaval.pdb

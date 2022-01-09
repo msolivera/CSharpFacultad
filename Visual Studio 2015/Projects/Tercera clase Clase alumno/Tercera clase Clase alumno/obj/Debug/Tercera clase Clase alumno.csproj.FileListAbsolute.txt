@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Tercera clase Clase alumno\Tercera clase Clase alumno\bin\Debug\Tercera clase Clase alumno.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Tercera clase Clase alumno\Tercera clase Clase alumno\bin\Debug\Tercera clase Clase alumno.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Tercera clase Clase alumno\Tercera clase Clase alumno\bin\Debug\Tercera clase Clase alumno.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Tercera clase Clase alumno\Tercera clase Clase alumno\obj\Debug\Tercera clase Clase alumno.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Tercera clase Clase alumno\Tercera clase Clase alumno\obj\Debug\Tercera clase Clase alumno.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Tercera clase Clase alumno\Tercera clase Clase alumno\obj\Debug\Tercera clase Clase alumno.pdb
